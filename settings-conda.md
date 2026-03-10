@@ -7,7 +7,7 @@ conda config --env --add channels conda-forge
 conda config --env --set channel_priority strict
 
 # install package
-conda install -y ipykernel pymongo scikit-learn
+conda install -y ipykernel pymongo scikit-learn pandas nltk
 python -m pip install --upgrade pip
 
 # registration kernel for Jupyter/VS Code
