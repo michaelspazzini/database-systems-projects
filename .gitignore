@@ -2,3 +2,6 @@
 .conda
 *.py
 archive/
+Homework-MongoDB/
+token
+*.csv
